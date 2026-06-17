@@ -249,9 +249,9 @@ ol {
 }
 
 .content__video-card-title,
-.content__video-card-description {   
+.content__video-card-description {
   overflow: hidden;
-  text-overflow: ellipsis;   
+  text-overflow: ellipsis;
   white-space: nowrap;
 }
 
